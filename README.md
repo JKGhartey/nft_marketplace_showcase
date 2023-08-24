@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+NFT Marketplace App Landing Page
+================================
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![App Banner](https://github.com/JKGhartey/nft_marketplace_showcase/blob/master/src/assets/home_hero.png)
 
-## Available Scripts
+Welcome to the landing page of our cutting-edge NFT Marketplace app built with React Native. This page serves as an enticing introduction to our app, which empowers users to effortlessly host, buy, and sell their NFTs (Non-Fungible Tokens) within a seamlessly designed and responsive environment.
 
-In the project directory, you can run:
+Features
+--------
 
-### `npm start`
+-   User-Friendly Interface: Our app boasts an intuitive and user-friendly interface that ensures a smooth experience for both beginners and experienced users in the world of NFTs.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-   NFT Hosting: Showcase your unique digital creations to a global audience by easily hosting your NFTs on our platform. Whether you're an artist, collector, or enthusiast, our app provides a space to exhibit your creativity.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-   Responsive Design: Our app's landing page and overall interface are meticulously designed to be fully responsive, ensuring a consistent and visually appealing experience across various devices and screen sizes.
 
-### `npm test`
+Installation
+------------
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To experience the magic of our NFT Marketplace app, follow these steps:
 
-### `npm run build`
+1.  Clone this repository to your local machine.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    bashCopy code
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    `git clone https://github.com/JKGhartey/nft_marketplace_showcase.git`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2.  Navigate to the project directory.
 
-### `npm run eject`
+    bashCopy code
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    `cd nft_marketplace_showcase`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3.  Install the necessary dependencies.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    Copy code
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    `npm install`
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Include a few engaging screenshots or GIFs showcasing the app's features.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* * * * *
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Join us in revolutionizing the NFT landscape. Our React Native-based NFT Marketplace app provides a platform for artists, collectors, and enthusiasts to engage in a creative and thriving ecosystem. Explore, create, and trade NFTs seamlessly with us!
